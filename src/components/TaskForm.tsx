@@ -146,5 +146,3 @@ export default function TaskForm({ open, onClose, onSubmit, existingTitles, init
     </Dialog>
   );
 }
-
-
